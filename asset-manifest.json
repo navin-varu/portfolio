@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.f0a01c62.chunk.css",
+    "main.js": "/portfolio/static/js/main.bbc18651.chunk.js",
+    "main.js.map": "/portfolio/static/js/main.bbc18651.chunk.js.map",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.c334ab0a.js",
+    "runtime-main.js.map": "/portfolio/static/js/runtime-main.c334ab0a.js.map",
+    "static/js/2.101e54b8.chunk.js": "/portfolio/static/js/2.101e54b8.chunk.js",
+    "static/js/2.101e54b8.chunk.js.map": "/portfolio/static/js/2.101e54b8.chunk.js.map",
+    "static/js/3.e592796f.chunk.js": "/portfolio/static/js/3.e592796f.chunk.js",
+    "static/js/3.e592796f.chunk.js.map": "/portfolio/static/js/3.e592796f.chunk.js.map",
+    "index.html": "/portfolio/index.html",
+    "static/css/main.f0a01c62.chunk.css.map": "/portfolio/static/css/main.f0a01c62.chunk.css.map",
+    "static/js/2.101e54b8.chunk.js.LICENSE.txt": "/portfolio/static/js/2.101e54b8.chunk.js.LICENSE.txt",
+    "static/media/JQuery.0bcc2a2f.png": "/portfolio/static/media/JQuery.0bcc2a2f.png",
+    "static/media/Onion.fd1e98b1.png": "/portfolio/static/media/Onion.fd1e98b1.png",
+    "static/media/djangoREST.d1424069.png": "/portfolio/static/media/djangoREST.d1424069.png",
+    "static/media/image.90dfc81d.jpg": "/portfolio/static/media/image.90dfc81d.jpg",
+    "static/media/logo.c08a58dd.jpg": "/portfolio/static/media/logo.c08a58dd.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c334ab0a.js",
+    "static/js/2.101e54b8.chunk.js",
+    "static/css/main.f0a01c62.chunk.css",
+    "static/js/main.bbc18651.chunk.js"
+  ]
+}
