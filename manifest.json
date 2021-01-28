@@ -13,9 +13,9 @@
       "sizes": "192x192"
     },
     {
-      "src": "icon1.png",
+      "src": "Splash512.png",
       "type": "image/png",
-      "sizes": "330x328"
+      "sizes": "512x512"
     }
   ],
   "start_url": ".",
