@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.1787a39f.chunk.css",
-    "main.js": "/portfolio/static/js/main.4a3516f6.chunk.js",
-    "runtime-main.js": "/portfolio/static/js/runtime-main.f948ce03.js",
-    "static/js/2.87830ed9.chunk.js": "/portfolio/static/js/2.87830ed9.chunk.js",
-    "static/js/3.8e949338.chunk.js": "/portfolio/static/js/3.8e949338.chunk.js",
+    "main.css": "/portfolio/static/css/main.2269bee8.chunk.css",
+    "main.js": "/portfolio/static/js/main.e4b96cd3.chunk.js",
+    "runtime-main.js": "/portfolio/static/js/runtime-main.734626b5.js",
+    "static/js/2.8598d3a3.chunk.js": "/portfolio/static/js/2.8598d3a3.chunk.js",
+    "static/js/3.314ca2d7.chunk.js": "/portfolio/static/js/3.314ca2d7.chunk.js",
     "index.html": "/portfolio/index.html",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/js/2.87830ed9.chunk.js.LICENSE.txt": "/portfolio/static/js/2.87830ed9.chunk.js.LICENSE.txt",
+    "static/js/2.8598d3a3.chunk.js.LICENSE.txt": "/portfolio/static/js/2.8598d3a3.chunk.js.LICENSE.txt",
     "static/media/JQuery.0bcc2a2f.png": "/portfolio/static/media/JQuery.0bcc2a2f.png",
     "static/media/Onion.fd1e98b1.png": "/portfolio/static/media/Onion.fd1e98b1.png",
     "static/media/djangoREST.d1424069.png": "/portfolio/static/media/djangoREST.d1424069.png",
@@ -15,9 +15,9 @@
     "static/media/logo.c08a58dd.jpg": "/portfolio/static/media/logo.c08a58dd.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f948ce03.js",
-    "static/js/2.87830ed9.chunk.js",
-    "static/css/main.1787a39f.chunk.css",
-    "static/js/main.4a3516f6.chunk.js"
+    "static/js/runtime-main.734626b5.js",
+    "static/js/2.8598d3a3.chunk.js",
+    "static/css/main.2269bee8.chunk.css",
+    "static/js/main.e4b96cd3.chunk.js"
   ]
 }
