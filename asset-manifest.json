@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.7231c83f.chunk.css",
-    "main.js": "/portfolio/static/js/main.c1c49b69.chunk.js",
+    "main.css": "/portfolio/static/css/main.cfee55cd.chunk.css",
+    "main.js": "/portfolio/static/js/main.27586274.chunk.js",
     "runtime-main.js": "/portfolio/static/js/runtime-main.734626b5.js",
-    "static/js/2.2a481359.chunk.js": "/portfolio/static/js/2.2a481359.chunk.js",
+    "static/js/2.500ce4e7.chunk.js": "/portfolio/static/js/2.500ce4e7.chunk.js",
     "static/js/3.314ca2d7.chunk.js": "/portfolio/static/js/3.314ca2d7.chunk.js",
     "index.html": "/portfolio/index.html",
     "service-worker.js": "/portfolio/service-worker.js",
-    "static/js/2.2a481359.chunk.js.LICENSE.txt": "/portfolio/static/js/2.2a481359.chunk.js.LICENSE.txt",
+    "static/js/2.500ce4e7.chunk.js.LICENSE.txt": "/portfolio/static/js/2.500ce4e7.chunk.js.LICENSE.txt",
     "static/media/JQuery.0bcc2a2f.png": "/portfolio/static/media/JQuery.0bcc2a2f.png",
     "static/media/Onion.fd1e98b1.png": "/portfolio/static/media/Onion.fd1e98b1.png",
     "static/media/djangoREST.d1424069.png": "/portfolio/static/media/djangoREST.d1424069.png",
@@ -16,8 +16,8 @@
   },
   "entrypoints": [
     "static/js/runtime-main.734626b5.js",
-    "static/js/2.2a481359.chunk.js",
-    "static/css/main.7231c83f.chunk.css",
-    "static/js/main.c1c49b69.chunk.js"
+    "static/js/2.500ce4e7.chunk.js",
+    "static/css/main.cfee55cd.chunk.css",
+    "static/js/main.27586274.chunk.js"
   ]
 }
